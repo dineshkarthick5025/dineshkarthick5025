@@ -11,8 +11,7 @@
 - 🔭 I’m currently working on **Machine Learning projects and Web Development**
 - 🌱 I’m currently learning **Advanced React and Data Science**
 - 👯 I’m looking to collaborate on **Open-source projects and Hackathons**
-- 🤔 I’m interested in **Smart Traffic Management & AR/VR Solutions**
-- 📫 How to reach me: **dineshkarthick@example.com**
+- 📫 How to reach me: **dineshkarthick282005@gmail.com**
 - ⚡ Fun fact: **I love playing cricket 🏏**
 
 <!-- GitHub Stats Section -->
@@ -45,13 +44,13 @@
 <!-- Connect With Me Section -->
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/dineshkarthickv" target="_blank">
+  <a href="https://www.linkedin.com/in/dinesh-karthick-v-6b073a28b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:dineshkarthick@example.com" target="_blank">
+  <a href="mailto:dineshkarthick282005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Dinesh-Karthick" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
