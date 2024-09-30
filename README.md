@@ -32,12 +32,12 @@
 <!-- Skills Section -->
 <h3 align="center">Tech Stack & Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 <!-- Connect With Me Section -->
@@ -64,13 +64,5 @@
   💻 Developed by <b>Dinesh Karthick V</b> | 💖 Passionate about Technology & Innovation
 </p>
 
-<style>
-  img[alt^="HTML5"], img[alt^="CSS3"], img[alt^="JavaScript"], img[alt^="Python"], img[alt^="Java"], img[alt^="C"] {
-    transition: transform 0.3s ease;
-  }
-  img[alt^="HTML5"]:hover, img[alt^="CSS3"]:hover, img[alt^="JavaScript"]:hover, img[alt^="Python"]:hover, img[alt^="Java"]:hover, img[alt^="C"]:hover {
-    transform: scale(1.1);
-  }
-</style>
 
 
