@@ -10,7 +10,7 @@
 <!-- About Me Section -->
 <ul>
   <li>🔭 I’m currently working on <strong>Machine Learning projects and Web Development</strong></li>
-  <li>🌱 I’m currently learning <strong>Advanced React and Data Science</strong></li>
+  <li>🌱 I’m currently learning <strong>React.js and frameworks</strong></li>
   <li>👯 I’m looking to collaborate on <strong>Open-source projects and Hackathons</strong></li>
   <li>📫 How to reach me: <a href="mailto:dineshkarthick282005@gmail.com">dineshkarthick282005@gmail.com</a></li>
   <li>⚡ Fun fact: <strong>I love playing cricket 🏏</strong></li>
