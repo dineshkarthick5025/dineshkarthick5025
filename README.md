@@ -1,77 +1,109 @@
-<!-- Animated Header Section -->
+<!-- Professional Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFAF&center=true&vCenter=true&width=600&lines=✨+Hi+👋,+I'm+Dinesh+Karthick+V;💻+Full-Stack+Developer;🚀+Aspiring+Software+Engineer;🌟+Open+to+Opportunities!" alt="Animated Typing Header" />
+  <h1>Dinesh Karthick V</h1>
+  <h3>Full-Stack Developer | Software Engineer</h3>
 </div>
 
-<!-- Rainbow Divider -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- Solid Divider -->
+<hr>
 
-<!-- Animated About Me Section -->
-<h2 align="center">⚡ About Me</h2>
+<!-- About Me Section -->
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> <strong>Currently working on</strong> Web Development projects<br>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <strong>Learning</strong> React.js and advanced frameworks<br>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> <strong>Looking to collaborate on</strong> Open-source & Hackathons<br>
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> <strong>Fun fact:</strong> Cricket enthusiast 🏏 & Chess player ♟️
+  Passionate full-stack developer with expertise in building web applications using modern technologies. 
+  Currently focused on expanding my knowledge in system design and cloud architecture. 
+  Open to collaborating on meaningful projects and always eager to learn new technologies.
 </p>
 
-<!-- Animated Tech Stack Section -->
-<h2 align="center">🛠 Tech Stack</h2>
+<ul>
+  <li>🔭 Currently working on: Full-stack web applications</li>
+  <li>🌱 Learning: Advanced React patterns and Node.js optimization</li>
+  <li>👯 Looking to collaborate on: Open-source projects</li>
+  <li>⚡ Fun fact: Enjoy solving complex problems and playing chess</li>
+</ul>
+
+<!-- Tech Stack Section -->
+<h2 align="center">Tech Stack</h2>
+
+<h3>Frontend</h3>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+</p>
+
+<h3>Backend</h3>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java">
+</p>
+
+<h3>Databases</h3>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+<h3>Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code">
+</p>
+
+<!-- GitHub Stats Section -->
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <!-- Row 1 -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <br>
-  <!-- Row 2 -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dineshkarthick5025&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkarthick5025&layout=compact&theme=default" alt="Top Languages" />
 </div>
-
-<!-- Animated GitHub Stats Section -->
-<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dineshkarthick5025&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FFAF&text_color=FFFFFF&icon_color=00FFAF" alt="Dinesh's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkarthick5025&layout=compact&theme=radical&bg_color=0d1117&title_color=00FFAF&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshkarthick5025&theme=default" alt="GitHub Streak" />
 </div>
 
-<!-- GitHub Streak with Animation -->
+<!-- Projects Section -->
+<h2 align="center">Featured Projects</h2>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshkarthick5025&theme=radical&background=0d1117&stroke=00FFAF&ring=00FFAF&fire=00FFAF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+  <a href="https://github.com/dineshkarthick5025/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshkarthick5025&repo=project-1&theme=default" width="45%">
+  </a>
+  <a href="https://github.com/dineshkarthick5025/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshkarthick5025&repo=project-2&theme=default" width="45%">
+  </a>
 </div>
 
-<!-- LeetCode Stats with Animation -->
-<h2 align="center">💪 LeetCode Progress</h2>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/dineshkarthick282005?theme=dark&font=Karma&ext=heatmap&animation=true" alt="LeetCode Stats" width="60%"/>
-</div>
+<!-- Contact Section -->
+<h2 align="center">Connect With Me</h2>
 
-<!-- Contact Section with Animated Icons -->
-<h2 align="center">📫 Let's Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/dinesh-karthick-v-6b073a28b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:dineshkarthick282005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/dineshkarthick5025" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://leetcode.com/dineshkarthick282005/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
 </p>
 
-<!-- Animated Footer -->
+<!-- Footer -->
+<hr>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAF&height=100&section=footer&animation=twinkling" />
   <p> 
-    <img src="https://komarev.com/ghpvc/?username=dineshkarthick5025&label=Profile%20views&color=00FFAF&style=flat" alt="dineshkarthick5025" /> 
-    • Made with ❤️ by <b>Dinesh Karthick V</b>
+    <img src="https://komarev.com/ghpvc/?username=dineshkarthick5025&label=Profile+Views" alt="Profile Views" /> 
+    • Made with ❤️ by Dinesh Karthick V
   </p>
-  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="100">
 </div>
