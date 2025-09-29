@@ -107,16 +107,7 @@ const dinesh = {
 ---
 
 <!-- Featured Projects -->
-<div align="center">
-  
-  ## 🚀 **Featured Projects**
-  
-  <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dineshkarthick5025&repo=project-1&theme=tokyonight&hide_border=true)](https://github.com/dineshkarthick5025/project-1)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dineshkarthick5025&repo=project-2&theme=tokyonight&hide_border=true)](https://github.com/dineshkarthick5025/project-2)
-    
-  </div>
+
   
   ### 🔥 **What I'm Building**
   
