@@ -151,7 +151,7 @@ const dinesh = {
   
   <!--START_SECTION:waka-->
   ```text
-  React Js   8 hrs 35 mins   ████████████████░░░░░   68.2%
+  React Js     8 hrs 35 mins   ████████████████░░░░░   68.2%
   JavaScript   2 hrs 15 mins   ████░░░░░░░░░░░░░░░░░   18.1%
   Python       1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░   10.7%
   CSS          22 mins         █░░░░░░░░░░░░░░░░░░░░    3.0%
@@ -187,7 +187,7 @@ const dinesh = {
   
   ---
   
-  ### 💭 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+  ###  **"© 2025 Dinesh Karthick. All Rights Reserved."**
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer"/>
   
